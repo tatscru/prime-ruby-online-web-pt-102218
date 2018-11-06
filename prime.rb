@@ -9,4 +9,4 @@ def prime?(i)
 end 
 
 
-    
+    # unsure how to do this and do not want to figure out algebraic math problems right now 
